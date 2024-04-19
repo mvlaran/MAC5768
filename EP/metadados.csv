@@ -1,0 +1,601 @@
+Número,Grupo,Descrição,Nome Arquivo,Classe 1,Classe 2,Classe 3,Plano de Fundo,Luz,Ambiente
+1,1,"Lâmpada, Post-It, Chave de Fenda",0001.png,Lâmpada,Post-It,Chave de Fenda,Madeira,Amarela,Interno
+2,1,"Lâmpada, Post-It, Cadeado",0002.png,Lâmpada,Post-It,Cadeado,Madeira,Amarela,Interno
+3,1,"Lâmpada, Post-It, Rolha",0003.png,Lâmpada,Post-It,Rolha,Madeira,Amarela,Interno
+4,1,"Lâmpada, Post-It, Pincel",0004.png,Lâmpada,Post-It,Pincel,Madeira,Amarela,Interno
+5,1,"Lâmpada, Post-It, Caneta",0005.png,Lâmpada,Post-It,Caneta,Madeira,Amarela,Interno
+6,1,"Lâmpada, Post-It, Pilha",0006.png,Lâmpada,Post-It,Pilha,Madeira,Amarela,Interno
+7,1,"Lâmpada, Post-It, Pinça",0007.png,Lâmpada,Post-It,Pinça,Madeira,Amarela,Interno
+8,1,"Lâmpada, Post-It, Pendrive",0008.png,Lâmpada,Post-It,Pendrive,Madeira,Amarela,Interno
+9,1,"Lâmpada, Chave de Fenda, Cadeado",0009.png,Lâmpada,Chave de Fenda,Cadeado,Madeira,Amarela,Interno
+10,1,"Lâmpada, Chave de Fenda, Rolha",0010.png,Lâmpada,Chave de Fenda,Rolha,Madeira,Amarela,Interno
+11,1,"Lâmpada, Chave de Fenda, Pincel",0011.png,Lâmpada,Chave de Fenda,Pincel,Madeira,Amarela,Interno
+12,1,"Lâmpada, Chave de Fenda, Caneta",0012.png,Lâmpada,Chave de Fenda,Caneta,Madeira,Amarela,Interno
+13,1,"Lâmpada, Chave de Fenda, Pilha",0013.png,Lâmpada,Chave de Fenda,Pilha,Madeira,Amarela,Interno
+14,1,"Lâmpada, Chave de Fenda, Pinça",0014.png,Lâmpada,Chave de Fenda,Pinça,Madeira,Amarela,Interno
+15,1,"Lâmpada, Chave de Fenda, Pendrive",0015.png,Lâmpada,Chave de Fenda,Pendrive,Madeira,Amarela,Interno
+16,1,"Lâmpada, Cadeado, Rolha",0016.png,Lâmpada,Cadeado,Rolha,Madeira,Amarela,Interno
+17,1,"Lâmpada, Cadeado, Pincel",0017.png,Lâmpada,Cadeado,Pincel,Madeira,Amarela,Interno
+18,1,"Lâmpada, Cadeado, Caneta",0018.png,Lâmpada,Cadeado,Caneta,Madeira,Amarela,Interno
+19,1,"Lâmpada, Cadeado, Pilha",0019.png,Lâmpada,Cadeado,Pilha,Madeira,Amarela,Interno
+20,1,"Lâmpada, Cadeado, Pinça",0020.png,Lâmpada,Cadeado,Pinça,Madeira,Amarela,Interno
+21,1,"Lâmpada, Cadeado, Pendrive",0021.png,Lâmpada,Cadeado,Pendrive,Madeira,Amarela,Interno
+22,1,"Lâmpada, Rolha, Pincel",0022.png,Lâmpada,Rolha,Pincel,Madeira,Amarela,Interno
+23,1,"Lâmpada, Rolha, Caneta",0023.png,Lâmpada,Rolha,Caneta,Madeira,Amarela,Interno
+24,1,"Lâmpada, Rolha, Pilha",0024.png,Lâmpada,Rolha,Pilha,Madeira,Amarela,Interno
+25,1,"Lâmpada, Rolha, Pinça",0025.png,Lâmpada,Rolha,Pinça,Madeira,Amarela,Interno
+26,1,"Lâmpada, Rolha, Pendrive",0026.png,Lâmpada,Rolha,Pendrive,Madeira,Amarela,Interno
+27,1,"Lâmpada, Pincel, Caneta",0027.png,Lâmpada,Pincel,Caneta,Madeira,Amarela,Interno
+28,1,"Lâmpada, Pincel, Pilha",0028.png,Lâmpada,Pincel,Pilha,Madeira,Amarela,Interno
+29,1,"Lâmpada, Pincel, Pinça",0029.png,Lâmpada,Pincel,Pinça,Madeira,Amarela,Interno
+30,1,"Lâmpada, Pincel, Pendrive",0030.png,Lâmpada,Pincel,Pendrive,Madeira,Amarela,Interno
+31,1,"Lâmpada, Caneta, Pilha",0031.png,Lâmpada,Caneta,Pilha,Madeira,Amarela,Interno
+32,1,"Lâmpada, Caneta, Pinça",0032.png,Lâmpada,Caneta,Pinça,Madeira,Amarela,Interno
+33,1,"Lâmpada, Caneta, Pendrive",0033.png,Lâmpada,Caneta,Pendrive,Madeira,Amarela,Interno
+34,1,"Lâmpada, Pilha, Pinça",0034.png,Lâmpada,Pilha,Pinça,Madeira,Amarela,Interno
+35,1,"Lâmpada, Pilha, Pendrive",0035.png,Lâmpada,Pilha,Pendrive,Madeira,Amarela,Interno
+36,1,"Lâmpada, Pinça, Pendrive",0036.png,Lâmpada,Pinça,Pendrive,Madeira,Amarela,Interno
+37,1,"Post-It, Chave de Fenda, Cadeado",0037.png,Post-It,Chave de Fenda,Cadeado,Madeira,Amarela,Interno
+38,1,"Post-It, Chave de Fenda, Rolha",0038.png,Post-It,Chave de Fenda,Rolha,Madeira,Amarela,Interno
+39,1,"Post-It, Chave de Fenda, Pincel",0039.png,Post-It,Chave de Fenda,Pincel,Madeira,Amarela,Interno
+40,1,"Post-It, Chave de Fenda, Caneta",0040.png,Post-It,Chave de Fenda,Caneta,Madeira,Amarela,Interno
+41,1,"Post-It, Chave de Fenda, Pilha",0041.png,Post-It,Chave de Fenda,Pilha,Madeira,Amarela,Interno
+42,1,"Post-It, Chave de Fenda, Pinça",0042.png,Post-It,Chave de Fenda,Pinça,Madeira,Amarela,Interno
+43,1,"Post-It, Chave de Fenda, Pendrive",0043.png,Post-It,Chave de Fenda,Pendrive,Madeira,Amarela,Interno
+44,1,"Post-It, Cadeado, Rolha",0044.png,Post-It,Cadeado,Rolha,Madeira,Amarela,Interno
+45,1,"Post-It, Cadeado, Pincel",0045.png,Post-It,Cadeado,Pincel,Madeira,Amarela,Interno
+46,1,"Post-It, Cadeado, Caneta",0046.png,Post-It,Cadeado,Caneta,Madeira,Amarela,Interno
+47,1,"Post-It, Cadeado, Pilha",0047.png,Post-It,Cadeado,Pilha,Madeira,Amarela,Interno
+48,1,"Post-It, Cadeado, Pinça",0048.png,Post-It,Cadeado,Pinça,Madeira,Amarela,Interno
+49,1,"Post-It, Cadeado, Pendrive",0049.png,Post-It,Cadeado,Pendrive,Madeira,Amarela,Interno
+50,1,"Post-It, Rolha, Pincel",0050.png,Post-It,Rolha,Pincel,Madeira,Amarela,Interno
+51,1,"Post-It, Rolha, Caneta",0051.png,Post-It,Rolha,Caneta,Madeira,Amarela,Interno
+52,1,"Post-It, Rolha, Pilha",0052.png,Post-It,Rolha,Pilha,Madeira,Amarela,Interno
+53,1,"Post-It, Rolha, Pinça",0053.png,Post-It,Rolha,Pinça,Madeira,Amarela,Interno
+54,1,"Post-It, Rolha, Pendrive",0054.png,Post-It,Rolha,Pendrive,Madeira,Amarela,Interno
+55,1,"Post-It, Pincel, Caneta",0055.png,Post-It,Pincel,Caneta,Madeira,Amarela,Interno
+56,1,"Post-It, Pincel, Pilha",0056.png,Post-It,Pincel,Pilha,Madeira,Amarela,Interno
+57,1,"Post-It, Pincel, Pinça",0057.png,Post-It,Pincel,Pinça,Madeira,Amarela,Interno
+58,1,"Post-It, Pincel, Pendrive",0058.png,Post-It,Pincel,Pendrive,Madeira,Amarela,Interno
+59,1,"Post-It, Caneta, Pilha",0059.png,Post-It,Caneta,Pilha,Madeira,Amarela,Interno
+60,1,"Post-It, Caneta, Pinça",0060.png,Post-It,Caneta,Pinça,Madeira,Amarela,Interno
+61,1,"Post-It, Caneta, Pendrive",0061.png,Post-It,Caneta,Pendrive,Madeira,Amarela,Interno
+62,1,"Post-It, Pilha, Pinça",0062.png,Post-It,Pilha,Pinça,Madeira,Amarela,Interno
+63,1,"Post-It, Pilha, Pendrive",0063.png,Post-It,Pilha,Pendrive,Madeira,Amarela,Interno
+64,1,"Post-It, Pinça, Pendrive",0064.png,Post-It,Pinça,Pendrive,Madeira,Amarela,Interno
+65,1,"Chave de Fenda, Cadeado, Rolha",0065.png,Chave de Fenda,Cadeado,Rolha,Madeira,Amarela,Interno
+66,1,"Chave de Fenda, Cadeado, Pincel",0066.png,Chave de Fenda,Cadeado,Pincel,Madeira,Amarela,Interno
+67,1,"Chave de Fenda, Cadeado, Caneta",0067.png,Chave de Fenda,Cadeado,Caneta,Madeira,Amarela,Interno
+68,1,"Chave de Fenda, Cadeado, Pilha",0068.png,Chave de Fenda,Cadeado,Pilha,Madeira,Amarela,Interno
+69,1,"Chave de Fenda, Cadeado, Pinça",0069.png,Chave de Fenda,Cadeado,Pinça,Madeira,Amarela,Interno
+70,1,"Chave de Fenda, Cadeado, Pendrive",0070.png,Chave de Fenda,Cadeado,Pendrive,Madeira,Amarela,Interno
+71,1,"Chave de Fenda, Rolha, Pincel",0071.png,Chave de Fenda,Rolha,Pincel,Madeira,Amarela,Interno
+72,1,"Chave de Fenda, Rolha, Caneta",0072.png,Chave de Fenda,Rolha,Caneta,Madeira,Amarela,Interno
+73,1,"Chave de Fenda, Rolha, Pilha",0073.png,Chave de Fenda,Rolha,Pilha,Madeira,Amarela,Interno
+74,1,"Chave de Fenda, Rolha, Pinça",0074.png,Chave de Fenda,Rolha,Pinça,Madeira,Amarela,Interno
+75,1,"Chave de Fenda, Rolha, Pendrive",0075.png,Chave de Fenda,Rolha,Pendrive,Madeira,Amarela,Interno
+76,1,"Chave de Fenda, Pincel, Caneta",0076.png,Chave de Fenda,Pincel,Caneta,Madeira,Amarela,Interno
+77,1,"Chave de Fenda, Pincel, Pilha",0077.png,Chave de Fenda,Pincel,Pilha,Madeira,Amarela,Interno
+78,1,"Chave de Fenda, Pincel, Pinça",0078.png,Chave de Fenda,Pincel,Pinça,Madeira,Amarela,Interno
+79,1,"Chave de Fenda, Pincel, Pendrive",0079.png,Chave de Fenda,Pincel,Pendrive,Madeira,Amarela,Interno
+80,1,"Chave de Fenda, Caneta, Pilha",0080.png,Chave de Fenda,Caneta,Pilha,Madeira,Amarela,Interno
+81,1,"Chave de Fenda, Caneta, Pinça",0081.png,Chave de Fenda,Caneta,Pinça,Madeira,Amarela,Interno
+82,1,"Chave de Fenda, Caneta, Pendrive",0082.png,Chave de Fenda,Caneta,Pendrive,Madeira,Amarela,Interno
+83,1,"Chave de Fenda, Pilha, Pinça",0083.png,Chave de Fenda,Pilha,Pinça,Madeira,Amarela,Interno
+84,1,"Chave de Fenda, Pilha, Pendrive",0084.png,Chave de Fenda,Pilha,Pendrive,Madeira,Amarela,Interno
+85,1,"Chave de Fenda, Pinça, Pendrive",0085.png,Chave de Fenda,Pinça,Pendrive,Madeira,Amarela,Interno
+86,1,"Cadeado, Rolha, Pincel",0086.png,Cadeado,Rolha,Pincel,Madeira,Amarela,Interno
+87,1,"Cadeado, Rolha, Caneta",0087.png,Cadeado,Rolha,Caneta,Madeira,Amarela,Interno
+88,1,"Cadeado, Rolha, Pilha",0088.png,Cadeado,Rolha,Pilha,Madeira,Amarela,Interno
+89,1,"Cadeado, Rolha, Pinça",0089.png,Cadeado,Rolha,Pinça,Madeira,Amarela,Interno
+90,1,"Cadeado, Rolha, Pendrive",0090.png,Cadeado,Rolha,Pendrive,Madeira,Amarela,Interno
+91,1,"Cadeado, Pincel, Caneta",0091.png,Cadeado,Pincel,Caneta,Madeira,Amarela,Interno
+92,1,"Cadeado, Pincel, Pilha",0092.png,Cadeado,Pincel,Pilha,Madeira,Amarela,Interno
+93,1,"Cadeado, Pincel, Pinça",0093.png,Cadeado,Pincel,Pinça,Madeira,Amarela,Interno
+94,1,"Cadeado, Pincel, Pendrive",0094.png,Cadeado,Pincel,Pendrive,Madeira,Amarela,Interno
+95,1,"Cadeado, Caneta, Pilha",0095.png,Cadeado,Caneta,Pilha,Madeira,Amarela,Interno
+96,1,"Cadeado, Caneta, Pinça",0096.png,Cadeado,Caneta,Pinça,Madeira,Amarela,Interno
+97,1,"Cadeado, Caneta, Pendrive",0097.png,Cadeado,Caneta,Pendrive,Madeira,Amarela,Interno
+98,1,"Cadeado, Pilha, Pinça",0098.png,Cadeado,Pilha,Pinça,Madeira,Amarela,Interno
+99,1,"Cadeado, Pilha, Pendrive",0099.png,Cadeado,Pilha,Pendrive,Madeira,Amarela,Interno
+100,1,"Cadeado, Pinça, Pendrive",0100.png,Cadeado,Pinça,Pendrive,Madeira,Amarela,Interno
+101,1,"Rolha, Pincel, Caneta",0101.png,Rolha,Pincel,Caneta,Madeira,Amarela,Interno
+102,1,"Rolha, Pincel, Pilha",0102.png,Rolha,Pincel,Pilha,Madeira,Amarela,Interno
+103,1,"Rolha, Pincel, Pinça",0103.png,Rolha,Pincel,Pinça,Madeira,Amarela,Interno
+104,1,"Rolha, Pincel, Pendrive",0104.png,Rolha,Pincel,Pendrive,Madeira,Amarela,Interno
+105,1,"Rolha, Caneta, Pilha",0105.png,Rolha,Caneta,Pilha,Madeira,Amarela,Interno
+106,1,"Rolha, Caneta, Pinça",0106.png,Rolha,Caneta,Pinça,Madeira,Amarela,Interno
+107,1,"Rolha, Caneta, Pendrive",0107.png,Rolha,Caneta,Pendrive,Madeira,Amarela,Interno
+108,1,"Rolha, Pilha, Pinça",0108.png,Rolha,Pilha,Pinça,Madeira,Amarela,Interno
+109,1,"Rolha, Pilha, Pendrive",0109.png,Rolha,Pilha,Pendrive,Madeira,Amarela,Interno
+110,1,"Rolha, Pinça, Pendrive",0110.png,Rolha,Pinça,Pendrive,Madeira,Amarela,Interno
+111,1,"Pincel, Caneta, Pilha",0111.png,Pincel,Caneta,Pilha,Madeira,Amarela,Interno
+112,1,"Pincel, Caneta, Pinça",0112.png,Pincel,Caneta,Pinça,Madeira,Amarela,Interno
+113,1,"Pincel, Caneta, Pendrive",0113.png,Pincel,Caneta,Pendrive,Madeira,Amarela,Interno
+114,1,"Pincel, Pilha, Pinça",0114.png,Pincel,Pilha,Pinça,Madeira,Amarela,Interno
+115,1,"Pincel, Pilha, Pendrive",0115.png,Pincel,Pilha,Pendrive,Madeira,Amarela,Interno
+116,1,"Pincel, Pinça, Pendrive",0116.png,Pincel,Pinça,Pendrive,Madeira,Amarela,Interno
+117,1,"Caneta, Pilha, Pinça",0117.png,Caneta,Pilha,Pinça,Madeira,Amarela,Interno
+118,1,"Caneta, Pilha, Pendrive",0118.png,Caneta,Pilha,Pendrive,Madeira,Amarela,Interno
+119,1,"Caneta, Pinça, Pendrive",0119.png,Caneta,Pinça,Pendrive,Madeira,Amarela,Interno
+120,2,"Pilha, Pinça, Pendrive",0120.png,Pilha,Pinça,Pendrive,Madeira,Amarela,Interno
+121,2,"Lâmpada, Post-It, Chave de Fenda",0121.png,Lâmpada,Post-It,Chave de Fenda,Concreto,Sombra,Externo
+122,2,"Lâmpada, Post-It, Cadeado",0122.png,Lâmpada,Post-It,Cadeado,Concreto,Sombra,Externo
+123,2,"Lâmpada, Post-It, Rolha",0123.png,Lâmpada,Post-It,Rolha,Concreto,Sombra,Externo
+124,2,"Lâmpada, Post-It, Pincel",0124.png,Lâmpada,Post-It,Pincel,Concreto,Sombra,Externo
+125,2,"Lâmpada, Post-It, Caneta",0125.png,Lâmpada,Post-It,Caneta,Concreto,Sombra,Externo
+126,2,"Lâmpada, Post-It, Pilha",0126.png,Lâmpada,Post-It,Pilha,Concreto,Sombra,Externo
+127,2,"Lâmpada, Post-It, Pinça",0127.png,Lâmpada,Post-It,Pinça,Concreto,Sombra,Externo
+128,2,"Lâmpada, Post-It, Pendrive",0128.png,Lâmpada,Post-It,Pendrive,Concreto,Sombra,Externo
+129,2,"Lâmpada, Chave de Fenda, Cadeado",0129.png,Lâmpada,Chave de Fenda,Cadeado,Concreto,Sombra,Externo
+130,2,"Lâmpada, Chave de Fenda, Rolha",0130.png,Lâmpada,Chave de Fenda,Rolha,Concreto,Sombra,Externo
+131,2,"Lâmpada, Chave de Fenda, Pincel",0131.png,Lâmpada,Chave de Fenda,Pincel,Concreto,Sombra,Externo
+132,2,"Lâmpada, Chave de Fenda, Caneta",0132.png,Lâmpada,Chave de Fenda,Caneta,Concreto,Sombra,Externo
+133,2,"Lâmpada, Chave de Fenda, Pilha",0133.png,Lâmpada,Chave de Fenda,Pilha,Concreto,Sombra,Externo
+134,2,"Lâmpada, Chave de Fenda, Pinça",0134.png,Lâmpada,Chave de Fenda,Pinça,Concreto,Sombra,Externo
+135,2,"Lâmpada, Chave de Fenda, Pendrive",0135.png,Lâmpada,Chave de Fenda,Pendrive,Concreto,Sombra,Externo
+136,2,"Lâmpada, Cadeado, Rolha",0136.png,Lâmpada,Cadeado,Rolha,Concreto,Sombra,Externo
+137,2,"Lâmpada, Cadeado, Pincel",0137.png,Lâmpada,Cadeado,Pincel,Concreto,Sombra,Externo
+138,2,"Lâmpada, Cadeado, Caneta",0138.png,Lâmpada,Cadeado,Caneta,Concreto,Sombra,Externo
+139,2,"Lâmpada, Cadeado, Pilha",0139.png,Lâmpada,Cadeado,Pilha,Concreto,Sombra,Externo
+140,2,"Lâmpada, Cadeado, Pinça",0140.png,Lâmpada,Cadeado,Pinça,Concreto,Sombra,Externo
+141,2,"Lâmpada, Cadeado, Pendrive",0141.png,Lâmpada,Cadeado,Pendrive,Concreto,Sombra,Externo
+142,2,"Lâmpada, Rolha, Pincel",0142.png,Lâmpada,Rolha,Pincel,Concreto,Sombra,Externo
+143,2,"Lâmpada, Rolha, Caneta",0143.png,Lâmpada,Rolha,Caneta,Concreto,Sombra,Externo
+144,2,"Lâmpada, Rolha, Pilha",0144.png,Lâmpada,Rolha,Pilha,Concreto,Sombra,Externo
+145,2,"Lâmpada, Rolha, Pinça",0145.png,Lâmpada,Rolha,Pinça,Concreto,Sombra,Externo
+146,2,"Lâmpada, Rolha, Pendrive",0146.png,Lâmpada,Rolha,Pendrive,Concreto,Sombra,Externo
+147,2,"Lâmpada, Pincel, Caneta",0147.png,Lâmpada,Pincel,Caneta,Concreto,Sombra,Externo
+148,2,"Lâmpada, Pincel, Pilha",0148.png,Lâmpada,Pincel,Pilha,Concreto,Sombra,Externo
+149,2,"Lâmpada, Pincel, Pinça",0149.png,Lâmpada,Pincel,Pinça,Concreto,Sombra,Externo
+150,2,"Lâmpada, Pincel, Pendrive",0150.png,Lâmpada,Pincel,Pendrive,Concreto,Sombra,Externo
+151,2,"Lâmpada, Caneta, Pilha",0151.png,Lâmpada,Caneta,Pilha,Concreto,Sombra,Externo
+152,2,"Lâmpada, Caneta, Pinça",0152.png,Lâmpada,Caneta,Pinça,Concreto,Sombra,Externo
+153,2,"Lâmpada, Caneta, Pendrive",0153.png,Lâmpada,Caneta,Pendrive,Concreto,Sombra,Externo
+154,2,"Lâmpada, Pilha, Pinça",0154.png,Lâmpada,Pilha,Pinça,Concreto,Sombra,Externo
+155,2,"Lâmpada, Pilha, Pendrive",0155.png,Lâmpada,Pilha,Pendrive,Concreto,Sombra,Externo
+156,2,"Lâmpada, Pinça, Pendrive",0156.png,Lâmpada,Pinça,Pendrive,Concreto,Sombra,Externo
+157,2,"Post-It, Chave de Fenda, Cadeado",0157.png,Post-It,Chave de Fenda,Cadeado,Concreto,Sombra,Externo
+158,2,"Post-It, Chave de Fenda, Rolha",0158.png,Post-It,Chave de Fenda,Rolha,Concreto,Sombra,Externo
+159,2,"Post-It, Chave de Fenda, Pincel",0159.png,Post-It,Chave de Fenda,Pincel,Concreto,Sombra,Externo
+160,2,"Post-It, Chave de Fenda, Caneta",0160.png,Post-It,Chave de Fenda,Caneta,Concreto,Sombra,Externo
+161,2,"Post-It, Chave de Fenda, Pilha",0161.png,Post-It,Chave de Fenda,Pilha,Concreto,Sombra,Externo
+162,2,"Post-It, Chave de Fenda, Pinça",0162.png,Post-It,Chave de Fenda,Pinça,Concreto,Sombra,Externo
+163,2,"Post-It, Chave de Fenda, Pendrive",0163.png,Post-It,Chave de Fenda,Pendrive,Concreto,Sombra,Externo
+164,2,"Post-It, Cadeado, Rolha",0164.png,Post-It,Cadeado,Rolha,Concreto,Sombra,Externo
+165,2,"Post-It, Cadeado, Pincel",0165.png,Post-It,Cadeado,Pincel,Concreto,Sombra,Externo
+166,2,"Post-It, Cadeado, Caneta",0166.png,Post-It,Cadeado,Caneta,Concreto,Sombra,Externo
+167,2,"Post-It, Cadeado, Pilha",0167.png,Post-It,Cadeado,Pilha,Concreto,Sombra,Externo
+168,2,"Post-It, Cadeado, Pinça",0168.png,Post-It,Cadeado,Pinça,Concreto,Sombra,Externo
+169,2,"Post-It, Cadeado, Pendrive",0169.png,Post-It,Cadeado,Pendrive,Concreto,Sombra,Externo
+170,2,"Post-It, Rolha, Pincel",0170.png,Post-It,Rolha,Pincel,Concreto,Sombra,Externo
+171,2,"Post-It, Rolha, Caneta",0171.png,Post-It,Rolha,Caneta,Concreto,Sombra,Externo
+172,2,"Post-It, Rolha, Pilha",0172.png,Post-It,Rolha,Pilha,Concreto,Sombra,Externo
+173,2,"Post-It, Rolha, Pinça",0173.png,Post-It,Rolha,Pinça,Concreto,Sombra,Externo
+174,2,"Post-It, Rolha, Pendrive",0174.png,Post-It,Rolha,Pendrive,Concreto,Sombra,Externo
+175,2,"Post-It, Pincel, Caneta",0175.png,Post-It,Pincel,Caneta,Concreto,Sombra,Externo
+176,2,"Post-It, Pincel, Pilha",0176.png,Post-It,Pincel,Pilha,Concreto,Sombra,Externo
+177,2,"Post-It, Pincel, Pinça",0177.png,Post-It,Pincel,Pinça,Concreto,Sombra,Externo
+178,2,"Post-It, Pincel, Pendrive",0178.png,Post-It,Pincel,Pendrive,Concreto,Sombra,Externo
+179,2,"Post-It, Caneta, Pilha",0179.png,Post-It,Caneta,Pilha,Concreto,Sombra,Externo
+180,2,"Post-It, Caneta, Pinça",0180.png,Post-It,Caneta,Pinça,Concreto,Sombra,Externo
+181,2,"Post-It, Caneta, Pendrive",0181.png,Post-It,Caneta,Pendrive,Concreto,Sombra,Externo
+182,2,"Post-It, Pilha, Pinça",0182.png,Post-It,Pilha,Pinça,Concreto,Sombra,Externo
+183,2,"Post-It, Pilha, Pendrive",0183.png,Post-It,Pilha,Pendrive,Concreto,Sombra,Externo
+184,2,"Post-It, Pinça, Pendrive",0184.png,Post-It,Pinça,Pendrive,Concreto,Sombra,Externo
+185,2,"Chave de Fenda, Cadeado, Rolha",0185.png,Chave de Fenda,Cadeado,Rolha,Concreto,Sombra,Externo
+186,2,"Chave de Fenda, Cadeado, Pincel",0186.png,Chave de Fenda,Cadeado,Pincel,Concreto,Sombra,Externo
+187,2,"Chave de Fenda, Cadeado, Caneta",0187.png,Chave de Fenda,Cadeado,Caneta,Concreto,Sombra,Externo
+188,2,"Chave de Fenda, Cadeado, Pilha",0188.png,Chave de Fenda,Cadeado,Pilha,Concreto,Sombra,Externo
+189,2,"Chave de Fenda, Cadeado, Pinça",0189.png,Chave de Fenda,Cadeado,Pinça,Concreto,Sombra,Externo
+190,2,"Chave de Fenda, Cadeado, Pendrive",0190.png,Chave de Fenda,Cadeado,Pendrive,Concreto,Sombra,Externo
+191,2,"Chave de Fenda, Rolha, Pincel",0191.png,Chave de Fenda,Rolha,Pincel,Concreto,Sombra,Externo
+192,2,"Chave de Fenda, Rolha, Caneta",0192.png,Chave de Fenda,Rolha,Caneta,Concreto,Sombra,Externo
+193,2,"Chave de Fenda, Rolha, Pilha",0193.png,Chave de Fenda,Rolha,Pilha,Concreto,Sombra,Externo
+194,2,"Chave de Fenda, Rolha, Pinça",0194.png,Chave de Fenda,Rolha,Pinça,Concreto,Sombra,Externo
+195,2,"Chave de Fenda, Rolha, Pendrive",0195.png,Chave de Fenda,Rolha,Pendrive,Concreto,Sombra,Externo
+196,2,"Chave de Fenda, Pincel, Caneta",0196.png,Chave de Fenda,Pincel,Caneta,Concreto,Sombra,Externo
+197,2,"Chave de Fenda, Pincel, Pilha",0197.png,Chave de Fenda,Pincel,Pilha,Concreto,Sombra,Externo
+198,2,"Chave de Fenda, Pincel, Pinça",0198.png,Chave de Fenda,Pincel,Pinça,Concreto,Sombra,Externo
+199,2,"Chave de Fenda, Pincel, Pendrive",0199.png,Chave de Fenda,Pincel,Pendrive,Concreto,Sombra,Externo
+200,2,"Chave de Fenda, Caneta, Pilha",0200.png,Chave de Fenda,Caneta,Pilha,Concreto,Sombra,Externo
+201,2,"Chave de Fenda, Caneta, Pinça",0201.png,Chave de Fenda,Caneta,Pinça,Concreto,Sombra,Externo
+202,2,"Chave de Fenda, Caneta, Pendrive",0202.png,Chave de Fenda,Caneta,Pendrive,Concreto,Sombra,Externo
+203,2,"Chave de Fenda, Pilha, Pinça",0203.png,Chave de Fenda,Pilha,Pinça,Concreto,Sombra,Externo
+204,2,"Chave de Fenda, Pilha, Pendrive",0204.png,Chave de Fenda,Pilha,Pendrive,Concreto,Sombra,Externo
+205,2,"Chave de Fenda, Pinça, Pendrive",0205.png,Chave de Fenda,Pinça,Pendrive,Concreto,Sombra,Externo
+206,2,"Cadeado, Rolha, Pincel",0206.png,Cadeado,Rolha,Pincel,Concreto,Sombra,Externo
+207,2,"Cadeado, Rolha, Caneta",0207.png,Cadeado,Rolha,Caneta,Concreto,Sombra,Externo
+208,2,"Cadeado, Rolha, Pilha",0208.png,Cadeado,Rolha,Pilha,Concreto,Sombra,Externo
+209,2,"Cadeado, Rolha, Pinça",0209.png,Cadeado,Rolha,Pinça,Concreto,Sombra,Externo
+210,2,"Cadeado, Rolha, Pendrive",0210.png,Cadeado,Rolha,Pendrive,Concreto,Sombra,Externo
+211,2,"Cadeado, Pincel, Caneta",0211.png,Cadeado,Pincel,Caneta,Concreto,Sombra,Externo
+212,2,"Cadeado, Pincel, Pilha",0212.png,Cadeado,Pincel,Pilha,Concreto,Sombra,Externo
+213,2,"Cadeado, Pincel, Pinça",0213.png,Cadeado,Pincel,Pinça,Concreto,Sombra,Externo
+214,2,"Cadeado, Pincel, Pendrive",0214.png,Cadeado,Pincel,Pendrive,Concreto,Sombra,Externo
+215,2,"Cadeado, Caneta, Pilha",0215.png,Cadeado,Caneta,Pilha,Concreto,Sombra,Externo
+216,2,"Cadeado, Caneta, Pinça",0216.png,Cadeado,Caneta,Pinça,Concreto,Sombra,Externo
+217,2,"Cadeado, Caneta, Pendrive",0217.png,Cadeado,Caneta,Pendrive,Concreto,Sombra,Externo
+218,2,"Cadeado, Pilha, Pinça",0218.png,Cadeado,Pilha,Pinça,Concreto,Sombra,Externo
+219,2,"Cadeado, Pilha, Pendrive",0219.png,Cadeado,Pilha,Pendrive,Concreto,Sombra,Externo
+220,2,"Cadeado, Pinça, Pendrive",0220.png,Cadeado,Pinça,Pendrive,Concreto,Sombra,Externo
+221,2,"Rolha, Pincel, Caneta",0221.png,Rolha,Pincel,Caneta,Concreto,Sombra,Externo
+222,2,"Rolha, Pincel, Pilha",0222.png,Rolha,Pincel,Pilha,Concreto,Sombra,Externo
+223,2,"Rolha, Pincel, Pinça",0223.png,Rolha,Pincel,Pinça,Concreto,Sombra,Externo
+224,2,"Rolha, Pincel, Pendrive",0224.png,Rolha,Pincel,Pendrive,Concreto,Sombra,Externo
+225,2,"Rolha, Caneta, Pilha",0225.png,Rolha,Caneta,Pilha,Concreto,Sombra,Externo
+226,2,"Rolha, Caneta, Pinça",0226.png,Rolha,Caneta,Pinça,Concreto,Sombra,Externo
+227,2,"Rolha, Caneta, Pendrive",0227.png,Rolha,Caneta,Pendrive,Concreto,Sombra,Externo
+228,2,"Rolha, Pilha, Pinça",0228.png,Rolha,Pilha,Pinça,Concreto,Sombra,Externo
+229,2,"Rolha, Pilha, Pendrive",0229.png,Rolha,Pilha,Pendrive,Concreto,Sombra,Externo
+230,2,"Rolha, Pinça, Pendrive",0230.png,Rolha,Pinça,Pendrive,Concreto,Sombra,Externo
+231,2,"Pincel, Caneta, Pilha",0231.png,Pincel,Caneta,Pilha,Concreto,Sombra,Externo
+232,2,"Pincel, Caneta, Pinça",0232.png,Pincel,Caneta,Pinça,Concreto,Sombra,Externo
+233,2,"Pincel, Caneta, Pendrive",0233.png,Pincel,Caneta,Pendrive,Concreto,Sombra,Externo
+234,2,"Pincel, Pilha, Pinça",0234.png,Pincel,Pilha,Pinça,Concreto,Sombra,Externo
+235,2,"Pincel, Pilha, Pendrive",0235.png,Pincel,Pilha,Pendrive,Concreto,Sombra,Externo
+236,2,"Pincel, Pinça, Pendrive",0236.png,Pincel,Pinça,Pendrive,Concreto,Sombra,Externo
+237,2,"Caneta, Pilha, Pinça",0237.png,Caneta,Pilha,Pinça,Concreto,Sombra,Externo
+238,2,"Caneta, Pilha, Pendrive",0238.png,Caneta,Pilha,Pendrive,Concreto,Sombra,Externo
+239,2,"Caneta, Pinça, Pendrive",0239.png,Caneta,Pinça,Pendrive,Concreto,Sombra,Externo
+240,3,"Pilha, Pinça, Pendrive",0240.png,Pilha,Pinça,Pendrive,Concreto,Sombra,Externo
+241,3,"Lâmpada, Post-It, Chave de Fenda",0241.png,Lâmpada,Post-It,Chave de Fenda,Branco,Branca,Interno
+242,3,"Lâmpada, Post-It, Cadeado",0242.png,Lâmpada,Post-It,Cadeado,Branco,Branca,Interno
+243,3,"Lâmpada, Post-It, Rolha",0243.png,Lâmpada,Post-It,Rolha,Branco,Branca,Interno
+244,3,"Lâmpada, Post-It, Pincel",0244.png,Lâmpada,Post-It,Pincel,Branco,Branca,Interno
+245,3,"Lâmpada, Post-It, Caneta",0245.png,Lâmpada,Post-It,Caneta,Branco,Branca,Interno
+246,3,"Lâmpada, Post-It, Pilha",0246.png,Lâmpada,Post-It,Pilha,Branco,Branca,Interno
+247,3,"Lâmpada, Post-It, Pinça",0247.png,Lâmpada,Post-It,Pinça,Branco,Branca,Interno
+248,3,"Lâmpada, Post-It, Pendrive",0248.png,Lâmpada,Post-It,Pendrive,Branco,Branca,Interno
+249,3,"Lâmpada, Chave de Fenda, Cadeado",0249.png,Lâmpada,Chave de Fenda,Cadeado,Branco,Branca,Interno
+250,3,"Lâmpada, Chave de Fenda, Rolha",0250.png,Lâmpada,Chave de Fenda,Rolha,Branco,Branca,Interno
+251,3,"Lâmpada, Chave de Fenda, Pincel",0251.png,Lâmpada,Chave de Fenda,Pincel,Branco,Branca,Interno
+252,3,"Lâmpada, Chave de Fenda, Caneta",0252.png,Lâmpada,Chave de Fenda,Caneta,Branco,Branca,Interno
+253,3,"Lâmpada, Chave de Fenda, Pilha",0253.png,Lâmpada,Chave de Fenda,Pilha,Branco,Branca,Interno
+254,3,"Lâmpada, Chave de Fenda, Pinça",0254.png,Lâmpada,Chave de Fenda,Pinça,Branco,Branca,Interno
+255,3,"Lâmpada, Chave de Fenda, Pendrive",0255.png,Lâmpada,Chave de Fenda,Pendrive,Branco,Branca,Interno
+256,3,"Lâmpada, Cadeado, Rolha",0256.png,Lâmpada,Cadeado,Rolha,Branco,Branca,Interno
+257,3,"Lâmpada, Cadeado, Pincel",0257.png,Lâmpada,Cadeado,Pincel,Branco,Branca,Interno
+258,3,"Lâmpada, Cadeado, Caneta",0258.png,Lâmpada,Cadeado,Caneta,Branco,Branca,Interno
+259,3,"Lâmpada, Cadeado, Pilha",0259.png,Lâmpada,Cadeado,Pilha,Branco,Branca,Interno
+260,3,"Lâmpada, Cadeado, Pinça",0260.png,Lâmpada,Cadeado,Pinça,Branco,Branca,Interno
+261,3,"Lâmpada, Cadeado, Pendrive",0261.png,Lâmpada,Cadeado,Pendrive,Branco,Branca,Interno
+262,3,"Lâmpada, Rolha, Pincel",0262.png,Lâmpada,Rolha,Pincel,Branco,Branca,Interno
+263,3,"Lâmpada, Rolha, Caneta",0263.png,Lâmpada,Rolha,Caneta,Branco,Branca,Interno
+264,3,"Lâmpada, Rolha, Pilha",0264.png,Lâmpada,Rolha,Pilha,Branco,Branca,Interno
+265,3,"Lâmpada, Rolha, Pinça",0265.png,Lâmpada,Rolha,Pinça,Branco,Branca,Interno
+266,3,"Lâmpada, Rolha, Pendrive",0266.png,Lâmpada,Rolha,Pendrive,Branco,Branca,Interno
+267,3,"Lâmpada, Pincel, Caneta",0267.png,Lâmpada,Pincel,Caneta,Branco,Branca,Interno
+268,3,"Lâmpada, Pincel, Pilha",0268.png,Lâmpada,Pincel,Pilha,Branco,Branca,Interno
+269,3,"Lâmpada, Pincel, Pinça",0269.png,Lâmpada,Pincel,Pinça,Branco,Branca,Interno
+270,3,"Lâmpada, Pincel, Pendrive",0270.png,Lâmpada,Pincel,Pendrive,Branco,Branca,Interno
+271,3,"Lâmpada, Caneta, Pilha",0271.png,Lâmpada,Caneta,Pilha,Branco,Branca,Interno
+272,3,"Lâmpada, Caneta, Pinça",0272.png,Lâmpada,Caneta,Pinça,Branco,Branca,Interno
+273,3,"Lâmpada, Caneta, Pendrive",0273.png,Lâmpada,Caneta,Pendrive,Branco,Branca,Interno
+274,3,"Lâmpada, Pilha, Pinça",0274.png,Lâmpada,Pilha,Pinça,Branco,Branca,Interno
+275,3,"Lâmpada, Pilha, Pendrive",0275.png,Lâmpada,Pilha,Pendrive,Branco,Branca,Interno
+276,3,"Lâmpada, Pinça, Pendrive",0276.png,Lâmpada,Pinça,Pendrive,Branco,Branca,Interno
+277,3,"Post-It, Chave de Fenda, Cadeado",0277.png,Post-It,Chave de Fenda,Cadeado,Branco,Branca,Interno
+278,3,"Post-It, Chave de Fenda, Rolha",0278.png,Post-It,Chave de Fenda,Rolha,Branco,Branca,Interno
+279,3,"Post-It, Chave de Fenda, Pincel",0279.png,Post-It,Chave de Fenda,Pincel,Branco,Branca,Interno
+280,3,"Post-It, Chave de Fenda, Caneta",0280.png,Post-It,Chave de Fenda,Caneta,Branco,Branca,Interno
+281,3,"Post-It, Chave de Fenda, Pilha",0281.png,Post-It,Chave de Fenda,Pilha,Branco,Branca,Interno
+282,3,"Post-It, Chave de Fenda, Pinça",0282.png,Post-It,Chave de Fenda,Pinça,Branco,Branca,Interno
+283,3,"Post-It, Chave de Fenda, Pendrive",0283.png,Post-It,Chave de Fenda,Pendrive,Branco,Branca,Interno
+284,3,"Post-It, Cadeado, Rolha",0284.png,Post-It,Cadeado,Rolha,Branco,Branca,Interno
+285,3,"Post-It, Cadeado, Pincel",0285.png,Post-It,Cadeado,Pincel,Branco,Branca,Interno
+286,3,"Post-It, Cadeado, Caneta",0286.png,Post-It,Cadeado,Caneta,Branco,Branca,Interno
+287,3,"Post-It, Cadeado, Pilha",0287.png,Post-It,Cadeado,Pilha,Branco,Branca,Interno
+288,3,"Post-It, Cadeado, Pinça",0288.png,Post-It,Cadeado,Pinça,Branco,Branca,Interno
+289,3,"Post-It, Cadeado, Pendrive",0289.png,Post-It,Cadeado,Pendrive,Branco,Branca,Interno
+290,3,"Post-It, Rolha, Pincel",0290.png,Post-It,Rolha,Pincel,Branco,Branca,Interno
+291,3,"Post-It, Rolha, Caneta",0291.png,Post-It,Rolha,Caneta,Branco,Branca,Interno
+292,3,"Post-It, Rolha, Pilha",0292.png,Post-It,Rolha,Pilha,Branco,Branca,Interno
+293,3,"Post-It, Rolha, Pinça",0293.png,Post-It,Rolha,Pinça,Branco,Branca,Interno
+294,3,"Post-It, Rolha, Pendrive",0294.png,Post-It,Rolha,Pendrive,Branco,Branca,Interno
+295,3,"Post-It, Pincel, Caneta",0295.png,Post-It,Pincel,Caneta,Branco,Branca,Interno
+296,3,"Post-It, Pincel, Pilha",0296.png,Post-It,Pincel,Pilha,Branco,Branca,Interno
+297,3,"Post-It, Pincel, Pinça",0297.png,Post-It,Pincel,Pinça,Branco,Branca,Interno
+298,3,"Post-It, Pincel, Pendrive",0298.png,Post-It,Pincel,Pendrive,Branco,Branca,Interno
+299,3,"Post-It, Caneta, Pilha",0299.png,Post-It,Caneta,Pilha,Branco,Branca,Interno
+300,3,"Post-It, Caneta, Pinça",0300.png,Post-It,Caneta,Pinça,Branco,Branca,Interno
+301,3,"Post-It, Caneta, Pendrive",0301.png,Post-It,Caneta,Pendrive,Branco,Branca,Interno
+302,3,"Post-It, Pilha, Pinça",0302.png,Post-It,Pilha,Pinça,Branco,Branca,Interno
+303,3,"Post-It, Pilha, Pendrive",0303.png,Post-It,Pilha,Pendrive,Branco,Branca,Interno
+304,3,"Post-It, Pinça, Pendrive",0304.png,Post-It,Pinça,Pendrive,Branco,Branca,Interno
+305,3,"Chave de Fenda, Cadeado, Rolha",0305.png,Chave de Fenda,Cadeado,Rolha,Branco,Branca,Interno
+306,3,"Chave de Fenda, Cadeado, Pincel",0306.png,Chave de Fenda,Cadeado,Pincel,Branco,Branca,Interno
+307,3,"Chave de Fenda, Cadeado, Caneta",0307.png,Chave de Fenda,Cadeado,Caneta,Branco,Branca,Interno
+308,3,"Chave de Fenda, Cadeado, Pilha",0308.png,Chave de Fenda,Cadeado,Pilha,Branco,Branca,Interno
+309,3,"Chave de Fenda, Cadeado, Pinça",0309.png,Chave de Fenda,Cadeado,Pinça,Branco,Branca,Interno
+310,3,"Chave de Fenda, Cadeado, Pendrive",0310.png,Chave de Fenda,Cadeado,Pendrive,Branco,Branca,Interno
+311,3,"Chave de Fenda, Rolha, Pincel",0311.png,Chave de Fenda,Rolha,Pincel,Branco,Branca,Interno
+312,3,"Chave de Fenda, Rolha, Caneta",0312.png,Chave de Fenda,Rolha,Caneta,Branco,Branca,Interno
+313,3,"Chave de Fenda, Rolha, Pilha",0313.png,Chave de Fenda,Rolha,Pilha,Branco,Branca,Interno
+314,3,"Chave de Fenda, Rolha, Pinça",0314.png,Chave de Fenda,Rolha,Pinça,Branco,Branca,Interno
+315,3,"Chave de Fenda, Rolha, Pendrive",0315.png,Chave de Fenda,Rolha,Pendrive,Branco,Branca,Interno
+316,3,"Chave de Fenda, Pincel, Caneta",0316.png,Chave de Fenda,Pincel,Caneta,Branco,Branca,Interno
+317,3,"Chave de Fenda, Pincel, Pilha",0317.png,Chave de Fenda,Pincel,Pilha,Branco,Branca,Interno
+318,3,"Chave de Fenda, Pincel, Pinça",0318.png,Chave de Fenda,Pincel,Pinça,Branco,Branca,Interno
+319,3,"Chave de Fenda, Pincel, Pendrive",0319.png,Chave de Fenda,Pincel,Pendrive,Branco,Branca,Interno
+320,3,"Chave de Fenda, Caneta, Pilha",0320.png,Chave de Fenda,Caneta,Pilha,Branco,Branca,Interno
+321,3,"Chave de Fenda, Caneta, Pinça",0321.png,Chave de Fenda,Caneta,Pinça,Branco,Branca,Interno
+322,3,"Chave de Fenda, Caneta, Pendrive",0322.png,Chave de Fenda,Caneta,Pendrive,Branco,Branca,Interno
+323,3,"Chave de Fenda, Pilha, Pinça",0323.png,Chave de Fenda,Pilha,Pinça,Branco,Branca,Interno
+324,3,"Chave de Fenda, Pilha, Pendrive",0324.png,Chave de Fenda,Pilha,Pendrive,Branco,Branca,Interno
+325,3,"Chave de Fenda, Pinça, Pendrive",0325.png,Chave de Fenda,Pinça,Pendrive,Branco,Branca,Interno
+326,3,"Cadeado, Rolha, Pincel",0326.png,Cadeado,Rolha,Pincel,Branco,Branca,Interno
+327,3,"Cadeado, Rolha, Caneta",0327.png,Cadeado,Rolha,Caneta,Branco,Branca,Interno
+328,3,"Cadeado, Rolha, Pilha",0328.png,Cadeado,Rolha,Pilha,Branco,Branca,Interno
+329,3,"Cadeado, Rolha, Pinça",0329.png,Cadeado,Rolha,Pinça,Branco,Branca,Interno
+330,3,"Cadeado, Rolha, Pendrive",0330.png,Cadeado,Rolha,Pendrive,Branco,Branca,Interno
+331,3,"Cadeado, Pincel, Caneta",0331.png,Cadeado,Pincel,Caneta,Branco,Branca,Interno
+332,3,"Cadeado, Pincel, Pilha",0332.png,Cadeado,Pincel,Pilha,Branco,Branca,Interno
+333,3,"Cadeado, Pincel, Pinça",0333.png,Cadeado,Pincel,Pinça,Branco,Branca,Interno
+334,3,"Cadeado, Pincel, Pendrive",0334.png,Cadeado,Pincel,Pendrive,Branco,Branca,Interno
+335,3,"Cadeado, Caneta, Pilha",0335.png,Cadeado,Caneta,Pilha,Branco,Branca,Interno
+336,3,"Cadeado, Caneta, Pinça",0336.png,Cadeado,Caneta,Pinça,Branco,Branca,Interno
+337,3,"Cadeado, Caneta, Pendrive",0337.png,Cadeado,Caneta,Pendrive,Branco,Branca,Interno
+338,3,"Cadeado, Pilha, Pinça",0338.png,Cadeado,Pilha,Pinça,Branco,Branca,Interno
+339,3,"Cadeado, Pilha, Pendrive",0339.png,Cadeado,Pilha,Pendrive,Branco,Branca,Interno
+340,3,"Cadeado, Pinça, Pendrive",0340.png,Cadeado,Pinça,Pendrive,Branco,Branca,Interno
+341,3,"Rolha, Pincel, Caneta",0341.png,Rolha,Pincel,Caneta,Branco,Branca,Interno
+342,3,"Rolha, Pincel, Pilha",0342.png,Rolha,Pincel,Pilha,Branco,Branca,Interno
+343,3,"Rolha, Pincel, Pinça",0343.png,Rolha,Pincel,Pinça,Branco,Branca,Interno
+344,3,"Rolha, Pincel, Pendrive",0344.png,Rolha,Pincel,Pendrive,Branco,Branca,Interno
+345,3,"Rolha, Caneta, Pilha",0345.png,Rolha,Caneta,Pilha,Branco,Branca,Interno
+346,3,"Rolha, Caneta, Pinça",0346.png,Rolha,Caneta,Pinça,Branco,Branca,Interno
+347,3,"Rolha, Caneta, Pendrive",0347.png,Rolha,Caneta,Pendrive,Branco,Branca,Interno
+348,3,"Rolha, Pilha, Pinça",0348.png,Rolha,Pilha,Pinça,Branco,Branca,Interno
+349,3,"Rolha, Pilha, Pendrive",0349.png,Rolha,Pilha,Pendrive,Branco,Branca,Interno
+350,3,"Rolha, Pinça, Pendrive",0350.png,Rolha,Pinça,Pendrive,Branco,Branca,Interno
+351,3,"Pincel, Caneta, Pilha",0351.png,Pincel,Caneta,Pilha,Branco,Branca,Interno
+352,3,"Pincel, Caneta, Pinça",0352.png,Pincel,Caneta,Pinça,Branco,Branca,Interno
+353,3,"Pincel, Caneta, Pendrive",0353.png,Pincel,Caneta,Pendrive,Branco,Branca,Interno
+354,3,"Pincel, Pilha, Pinça",0354.png,Pincel,Pilha,Pinça,Branco,Branca,Interno
+355,3,"Pincel, Pilha, Pendrive",0355.png,Pincel,Pilha,Pendrive,Branco,Branca,Interno
+356,3,"Pincel, Pinça, Pendrive",0356.png,Pincel,Pinça,Pendrive,Branco,Branca,Interno
+357,3,"Caneta, Pilha, Pinça",0357.png,Caneta,Pilha,Pinça,Branco,Branca,Interno
+358,3,"Caneta, Pilha, Pendrive",0358.png,Caneta,Pilha,Pendrive,Branco,Branca,Interno
+359,3,"Caneta, Pinça, Pendrive",0359.png,Caneta,Pinça,Pendrive,Branco,Branca,Interno
+360,4,"Pilha, Pinça, Pendrive",0360.png,Pilha,Pinça,Pendrive,Branco,Branca,Interno
+361,4,"Lâmpada, Post-It, Chave de Fenda",0361.png,Lâmpada,Post-It,Chave de Fenda,Cimento,Indireta,Interno
+362,4,"Lâmpada, Post-It, Cadeado",0362.png,Lâmpada,Post-It,Cadeado,Cimento,Indireta,Interno
+363,4,"Lâmpada, Post-It, Rolha",0363.png,Lâmpada,Post-It,Rolha,Cimento,Indireta,Interno
+364,4,"Lâmpada, Post-It, Pincel",0364.png,Lâmpada,Post-It,Pincel,Cimento,Indireta,Interno
+365,4,"Lâmpada, Post-It, Caneta",0365.png,Lâmpada,Post-It,Caneta,Cimento,Indireta,Interno
+366,4,"Lâmpada, Post-It, Pilha",0366.png,Lâmpada,Post-It,Pilha,Cimento,Indireta,Interno
+367,4,"Lâmpada, Post-It, Pinça",0367.png,Lâmpada,Post-It,Pinça,Cimento,Indireta,Interno
+368,4,"Lâmpada, Post-It, Pendrive",0368.png,Lâmpada,Post-It,Pendrive,Cimento,Indireta,Interno
+369,4,"Lâmpada, Chave de Fenda, Cadeado",0369.png,Lâmpada,Chave de Fenda,Cadeado,Cimento,Indireta,Interno
+370,4,"Lâmpada, Chave de Fenda, Rolha",0370.png,Lâmpada,Chave de Fenda,Rolha,Cimento,Indireta,Interno
+371,4,"Lâmpada, Chave de Fenda, Pincel",0371.png,Lâmpada,Chave de Fenda,Pincel,Cimento,Indireta,Interno
+372,4,"Lâmpada, Chave de Fenda, Caneta",0372.png,Lâmpada,Chave de Fenda,Caneta,Cimento,Indireta,Interno
+373,4,"Lâmpada, Chave de Fenda, Pilha",0373.png,Lâmpada,Chave de Fenda,Pilha,Cimento,Indireta,Interno
+374,4,"Lâmpada, Chave de Fenda, Pinça",0374.png,Lâmpada,Chave de Fenda,Pinça,Cimento,Indireta,Interno
+375,4,"Lâmpada, Chave de Fenda, Pendrive",0375.png,Lâmpada,Chave de Fenda,Pendrive,Cimento,Indireta,Interno
+376,4,"Lâmpada, Cadeado, Rolha",0376.png,Lâmpada,Cadeado,Rolha,Cimento,Indireta,Interno
+377,4,"Lâmpada, Cadeado, Pincel",0377.png,Lâmpada,Cadeado,Pincel,Cimento,Indireta,Interno
+378,4,"Lâmpada, Cadeado, Caneta",0378.png,Lâmpada,Cadeado,Caneta,Cimento,Indireta,Interno
+379,4,"Lâmpada, Cadeado, Pilha",0379.png,Lâmpada,Cadeado,Pilha,Cimento,Indireta,Interno
+380,4,"Lâmpada, Cadeado, Pinça",0380.png,Lâmpada,Cadeado,Pinça,Cimento,Indireta,Interno
+381,4,"Lâmpada, Cadeado, Pendrive",0381.png,Lâmpada,Cadeado,Pendrive,Cimento,Indireta,Interno
+382,4,"Lâmpada, Rolha, Pincel",0382.png,Lâmpada,Rolha,Pincel,Cimento,Indireta,Interno
+383,4,"Lâmpada, Rolha, Caneta",0383.png,Lâmpada,Rolha,Caneta,Cimento,Indireta,Interno
+384,4,"Lâmpada, Rolha, Pilha",0384.png,Lâmpada,Rolha,Pilha,Cimento,Indireta,Interno
+385,4,"Lâmpada, Rolha, Pinça",0385.png,Lâmpada,Rolha,Pinça,Cimento,Indireta,Interno
+386,4,"Lâmpada, Rolha, Pendrive",0386.png,Lâmpada,Rolha,Pendrive,Cimento,Indireta,Interno
+387,4,"Lâmpada, Pincel, Caneta",0387.png,Lâmpada,Pincel,Caneta,Cimento,Indireta,Interno
+388,4,"Lâmpada, Pincel, Pilha",0388.png,Lâmpada,Pincel,Pilha,Cimento,Indireta,Interno
+389,4,"Lâmpada, Pincel, Pinça",0389.png,Lâmpada,Pincel,Pinça,Cimento,Indireta,Interno
+390,4,"Lâmpada, Pincel, Pendrive",0390.png,Lâmpada,Pincel,Pendrive,Cimento,Indireta,Interno
+391,4,"Lâmpada, Caneta, Pilha",0391.png,Lâmpada,Caneta,Pilha,Cimento,Indireta,Interno
+392,4,"Lâmpada, Caneta, Pinça",0392.png,Lâmpada,Caneta,Pinça,Cimento,Indireta,Interno
+393,4,"Lâmpada, Caneta, Pendrive",0393.png,Lâmpada,Caneta,Pendrive,Cimento,Indireta,Interno
+394,4,"Lâmpada, Pilha, Pinça",0394.png,Lâmpada,Pilha,Pinça,Cimento,Indireta,Interno
+395,4,"Lâmpada, Pilha, Pendrive",0395.png,Lâmpada,Pilha,Pendrive,Cimento,Indireta,Interno
+396,4,"Lâmpada, Pinça, Pendrive",0396.png,Lâmpada,Pinça,Pendrive,Cimento,Indireta,Interno
+397,4,"Post-It, Chave de Fenda, Cadeado",0397.png,Post-It,Chave de Fenda,Cadeado,Cimento,Indireta,Interno
+398,4,"Post-It, Chave de Fenda, Rolha",0398.png,Post-It,Chave de Fenda,Rolha,Cimento,Indireta,Interno
+399,4,"Post-It, Chave de Fenda, Pincel",0399.png,Post-It,Chave de Fenda,Pincel,Cimento,Indireta,Interno
+400,4,"Post-It, Chave de Fenda, Caneta",0400.png,Post-It,Chave de Fenda,Caneta,Cimento,Indireta,Interno
+401,4,"Post-It, Chave de Fenda, Pilha",0401.png,Post-It,Chave de Fenda,Pilha,Cimento,Indireta,Interno
+402,4,"Post-It, Chave de Fenda, Pinça",0402.png,Post-It,Chave de Fenda,Pinça,Cimento,Indireta,Interno
+403,4,"Post-It, Chave de Fenda, Pendrive",0403.png,Post-It,Chave de Fenda,Pendrive,Cimento,Indireta,Interno
+404,4,"Post-It, Cadeado, Rolha",0404.png,Post-It,Cadeado,Rolha,Cimento,Indireta,Interno
+405,4,"Post-It, Cadeado, Pincel",0405.png,Post-It,Cadeado,Pincel,Cimento,Indireta,Interno
+406,4,"Post-It, Cadeado, Caneta",0406.png,Post-It,Cadeado,Caneta,Cimento,Indireta,Interno
+407,4,"Post-It, Cadeado, Pilha",0407.png,Post-It,Cadeado,Pilha,Cimento,Indireta,Interno
+408,4,"Post-It, Cadeado, Pinça",0408.png,Post-It,Cadeado,Pinça,Cimento,Indireta,Interno
+409,4,"Post-It, Cadeado, Pendrive",0409.png,Post-It,Cadeado,Pendrive,Cimento,Indireta,Interno
+410,4,"Post-It, Rolha, Pincel",0410.png,Post-It,Rolha,Pincel,Cimento,Indireta,Interno
+411,4,"Post-It, Rolha, Caneta",0411.png,Post-It,Rolha,Caneta,Cimento,Indireta,Interno
+412,4,"Post-It, Rolha, Pilha",0412.png,Post-It,Rolha,Pilha,Cimento,Indireta,Interno
+413,4,"Post-It, Rolha, Pinça",0413.png,Post-It,Rolha,Pinça,Cimento,Indireta,Interno
+414,4,"Post-It, Rolha, Pendrive",0414.png,Post-It,Rolha,Pendrive,Cimento,Indireta,Interno
+415,4,"Post-It, Pincel, Caneta",0415.png,Post-It,Pincel,Caneta,Cimento,Indireta,Interno
+416,4,"Post-It, Pincel, Pilha",0416.png,Post-It,Pincel,Pilha,Cimento,Indireta,Interno
+417,4,"Post-It, Pincel, Pinça",0417.png,Post-It,Pincel,Pinça,Cimento,Indireta,Interno
+418,4,"Post-It, Pincel, Pendrive",0418.png,Post-It,Pincel,Pendrive,Cimento,Indireta,Interno
+419,4,"Post-It, Caneta, Pilha",0419.png,Post-It,Caneta,Pilha,Cimento,Indireta,Interno
+420,4,"Post-It, Caneta, Pinça",0420.png,Post-It,Caneta,Pinça,Cimento,Indireta,Interno
+421,4,"Post-It, Caneta, Pendrive",0421.png,Post-It,Caneta,Pendrive,Cimento,Indireta,Interno
+422,4,"Post-It, Pilha, Pinça",0422.png,Post-It,Pilha,Pinça,Cimento,Indireta,Interno
+423,4,"Post-It, Pilha, Pendrive",0423.png,Post-It,Pilha,Pendrive,Cimento,Indireta,Interno
+424,4,"Post-It, Pinça, Pendrive",0424.png,Post-It,Pinça,Pendrive,Cimento,Indireta,Interno
+425,4,"Chave de Fenda, Cadeado, Rolha",0425.png,Chave de Fenda,Cadeado,Rolha,Cimento,Indireta,Interno
+426,4,"Chave de Fenda, Cadeado, Pincel",0426.png,Chave de Fenda,Cadeado,Pincel,Cimento,Indireta,Interno
+427,4,"Chave de Fenda, Cadeado, Caneta",0427.png,Chave de Fenda,Cadeado,Caneta,Cimento,Indireta,Interno
+428,4,"Chave de Fenda, Cadeado, Pilha",0428.png,Chave de Fenda,Cadeado,Pilha,Cimento,Indireta,Interno
+429,4,"Chave de Fenda, Cadeado, Pinça",0429.png,Chave de Fenda,Cadeado,Pinça,Cimento,Indireta,Interno
+430,4,"Chave de Fenda, Cadeado, Pendrive",0430.png,Chave de Fenda,Cadeado,Pendrive,Cimento,Indireta,Interno
+431,4,"Chave de Fenda, Rolha, Pincel",0431.png,Chave de Fenda,Rolha,Pincel,Cimento,Indireta,Interno
+432,4,"Chave de Fenda, Rolha, Caneta",0432.png,Chave de Fenda,Rolha,Caneta,Cimento,Indireta,Interno
+433,4,"Chave de Fenda, Rolha, Pilha",0433.png,Chave de Fenda,Rolha,Pilha,Cimento,Indireta,Interno
+434,4,"Chave de Fenda, Rolha, Pinça",0434.png,Chave de Fenda,Rolha,Pinça,Cimento,Indireta,Interno
+435,4,"Chave de Fenda, Rolha, Pendrive",0435.png,Chave de Fenda,Rolha,Pendrive,Cimento,Indireta,Interno
+436,4,"Chave de Fenda, Pincel, Caneta",0436.png,Chave de Fenda,Pincel,Caneta,Cimento,Indireta,Interno
+437,4,"Chave de Fenda, Pincel, Pilha",0437.png,Chave de Fenda,Pincel,Pilha,Cimento,Indireta,Interno
+438,4,"Chave de Fenda, Pincel, Pinça",0438.png,Chave de Fenda,Pincel,Pinça,Cimento,Indireta,Interno
+439,4,"Chave de Fenda, Pincel, Pendrive",0439.png,Chave de Fenda,Pincel,Pendrive,Cimento,Indireta,Interno
+440,4,"Chave de Fenda, Caneta, Pilha",0440.png,Chave de Fenda,Caneta,Pilha,Cimento,Indireta,Interno
+441,4,"Chave de Fenda, Caneta, Pinça",0441.png,Chave de Fenda,Caneta,Pinça,Cimento,Indireta,Interno
+442,4,"Chave de Fenda, Caneta, Pendrive",0442.png,Chave de Fenda,Caneta,Pendrive,Cimento,Indireta,Interno
+443,4,"Chave de Fenda, Pilha, Pinça",0443.png,Chave de Fenda,Pilha,Pinça,Cimento,Indireta,Interno
+444,4,"Chave de Fenda, Pilha, Pendrive",0444.png,Chave de Fenda,Pilha,Pendrive,Cimento,Indireta,Interno
+445,4,"Chave de Fenda, Pinça, Pendrive",0445.png,Chave de Fenda,Pinça,Pendrive,Cimento,Indireta,Interno
+446,4,"Cadeado, Rolha, Pincel",0446.png,Cadeado,Rolha,Pincel,Cimento,Indireta,Interno
+447,4,"Cadeado, Rolha, Caneta",0447.png,Cadeado,Rolha,Caneta,Cimento,Indireta,Interno
+448,4,"Cadeado, Rolha, Pilha",0448.png,Cadeado,Rolha,Pilha,Cimento,Indireta,Interno
+449,4,"Cadeado, Rolha, Pinça",0449.png,Cadeado,Rolha,Pinça,Cimento,Indireta,Interno
+450,4,"Cadeado, Rolha, Pendrive",0450.png,Cadeado,Rolha,Pendrive,Cimento,Indireta,Interno
+451,4,"Cadeado, Pincel, Caneta",0451.png,Cadeado,Pincel,Caneta,Cimento,Indireta,Interno
+452,4,"Cadeado, Pincel, Pilha",0452.png,Cadeado,Pincel,Pilha,Cimento,Indireta,Interno
+453,4,"Cadeado, Pincel, Pinça",0453.png,Cadeado,Pincel,Pinça,Cimento,Indireta,Interno
+454,4,"Cadeado, Pincel, Pendrive",0454.png,Cadeado,Pincel,Pendrive,Cimento,Indireta,Interno
+455,4,"Cadeado, Caneta, Pilha",0455.png,Cadeado,Caneta,Pilha,Cimento,Indireta,Interno
+456,4,"Cadeado, Caneta, Pinça",0456.png,Cadeado,Caneta,Pinça,Cimento,Indireta,Interno
+457,4,"Cadeado, Caneta, Pendrive",0457.png,Cadeado,Caneta,Pendrive,Cimento,Indireta,Interno
+458,4,"Cadeado, Pilha, Pinça",0458.png,Cadeado,Pilha,Pinça,Cimento,Indireta,Interno
+459,4,"Cadeado, Pilha, Pendrive",0459.png,Cadeado,Pilha,Pendrive,Cimento,Indireta,Interno
+460,4,"Cadeado, Pinça, Pendrive",0460.png,Cadeado,Pinça,Pendrive,Cimento,Indireta,Interno
+461,4,"Rolha, Pincel, Caneta",0461.png,Rolha,Pincel,Caneta,Cimento,Indireta,Interno
+462,4,"Rolha, Pincel, Pilha",0462.png,Rolha,Pincel,Pilha,Cimento,Indireta,Interno
+463,4,"Rolha, Pincel, Pinça",0463.png,Rolha,Pincel,Pinça,Cimento,Indireta,Interno
+464,4,"Rolha, Pincel, Pendrive",0464.png,Rolha,Pincel,Pendrive,Cimento,Indireta,Interno
+465,4,"Rolha, Caneta, Pilha",0465.png,Rolha,Caneta,Pilha,Cimento,Indireta,Interno
+466,4,"Rolha, Caneta, Pinça",0466.png,Rolha,Caneta,Pinça,Cimento,Indireta,Interno
+467,4,"Rolha, Caneta, Pendrive",0467.png,Rolha,Caneta,Pendrive,Cimento,Indireta,Interno
+468,4,"Rolha, Pilha, Pinça",0468.png,Rolha,Pilha,Pinça,Cimento,Indireta,Interno
+469,4,"Rolha, Pilha, Pendrive",0469.png,Rolha,Pilha,Pendrive,Cimento,Indireta,Interno
+470,4,"Rolha, Pinça, Pendrive",0470.png,Rolha,Pinça,Pendrive,Cimento,Indireta,Interno
+471,4,"Pincel, Caneta, Pilha",0471.png,Pincel,Caneta,Pilha,Cimento,Indireta,Interno
+472,4,"Pincel, Caneta, Pinça",0472.png,Pincel,Caneta,Pinça,Cimento,Indireta,Interno
+473,4,"Pincel, Caneta, Pendrive",0473.png,Pincel,Caneta,Pendrive,Cimento,Indireta,Interno
+474,4,"Pincel, Pilha, Pinça",0474.png,Pincel,Pilha,Pinça,Cimento,Indireta,Interno
+475,4,"Pincel, Pilha, Pendrive",0475.png,Pincel,Pilha,Pendrive,Cimento,Indireta,Interno
+476,4,"Pincel, Pinça, Pendrive",0476.png,Pincel,Pinça,Pendrive,Cimento,Indireta,Interno
+477,4,"Caneta, Pilha, Pinça",0477.png,Caneta,Pilha,Pinça,Cimento,Indireta,Interno
+478,4,"Caneta, Pilha, Pendrive",0478.png,Caneta,Pilha,Pendrive,Cimento,Indireta,Interno
+479,4,"Caneta, Pinça, Pendrive",0479.png,Caneta,Pinça,Pendrive,Cimento,Indireta,Interno
+480,5,"Pilha, Pinça, Pendrive",0480.png,Pilha,Pinça,Pendrive,Cimento,Indireta,Interno
+481,5,"Lâmpada, Post-It, Chave de Fenda",0481.png,Lâmpada,Post-It,Chave de Fenda,Pedra,Sol,Externo
+482,5,"Lâmpada, Post-It, Cadeado",0482.png,Lâmpada,Post-It,Cadeado,Pedra,Sol,Externo
+483,5,"Lâmpada, Post-It, Rolha",0483.png,Lâmpada,Post-It,Rolha,Pedra,Sol,Externo
+484,5,"Lâmpada, Post-It, Pincel",0484.png,Lâmpada,Post-It,Pincel,Pedra,Sol,Externo
+485,5,"Lâmpada, Post-It, Caneta",0485.png,Lâmpada,Post-It,Caneta,Pedra,Sol,Externo
+486,5,"Lâmpada, Post-It, Pilha",0486.png,Lâmpada,Post-It,Pilha,Pedra,Sol,Externo
+487,5,"Lâmpada, Post-It, Pinça",0487.png,Lâmpada,Post-It,Pinça,Pedra,Sol,Externo
+488,5,"Lâmpada, Post-It, Pendrive",0488.png,Lâmpada,Post-It,Pendrive,Pedra,Sol,Externo
+489,5,"Lâmpada, Chave de Fenda, Cadeado",0489.png,Lâmpada,Chave de Fenda,Cadeado,Pedra,Sol,Externo
+490,5,"Lâmpada, Chave de Fenda, Rolha",0490.png,Lâmpada,Chave de Fenda,Rolha,Pedra,Sol,Externo
+491,5,"Lâmpada, Chave de Fenda, Pincel",0491.png,Lâmpada,Chave de Fenda,Pincel,Pedra,Sol,Externo
+492,5,"Lâmpada, Chave de Fenda, Caneta",0492.png,Lâmpada,Chave de Fenda,Caneta,Pedra,Sol,Externo
+493,5,"Lâmpada, Chave de Fenda, Pilha",0493.png,Lâmpada,Chave de Fenda,Pilha,Pedra,Sol,Externo
+494,5,"Lâmpada, Chave de Fenda, Pinça",0494.png,Lâmpada,Chave de Fenda,Pinça,Pedra,Sol,Externo
+495,5,"Lâmpada, Chave de Fenda, Pendrive",0495.png,Lâmpada,Chave de Fenda,Pendrive,Pedra,Sol,Externo
+496,5,"Lâmpada, Cadeado, Rolha",0496.png,Lâmpada,Cadeado,Rolha,Pedra,Sol,Externo
+497,5,"Lâmpada, Cadeado, Pincel",0497.png,Lâmpada,Cadeado,Pincel,Pedra,Sol,Externo
+498,5,"Lâmpada, Cadeado, Caneta",0498.png,Lâmpada,Cadeado,Caneta,Pedra,Sol,Externo
+499,5,"Lâmpada, Cadeado, Pilha",0499.png,Lâmpada,Cadeado,Pilha,Pedra,Sol,Externo
+500,5,"Lâmpada, Cadeado, Pinça",0500.png,Lâmpada,Cadeado,Pinça,Pedra,Sol,Externo
+501,5,"Lâmpada, Cadeado, Pendrive",0501.png,Lâmpada,Cadeado,Pendrive,Pedra,Sol,Externo
+502,5,"Lâmpada, Rolha, Pincel",0502.png,Lâmpada,Rolha,Pincel,Pedra,Sol,Externo
+503,5,"Lâmpada, Rolha, Caneta",0503.png,Lâmpada,Rolha,Caneta,Pedra,Sol,Externo
+504,5,"Lâmpada, Rolha, Pilha",0504.png,Lâmpada,Rolha,Pilha,Pedra,Sol,Externo
+505,5,"Lâmpada, Rolha, Pinça",0505.png,Lâmpada,Rolha,Pinça,Pedra,Sol,Externo
+506,5,"Lâmpada, Rolha, Pendrive",0506.png,Lâmpada,Rolha,Pendrive,Pedra,Sol,Externo
+507,5,"Lâmpada, Pincel, Caneta",0507.png,Lâmpada,Pincel,Caneta,Pedra,Sol,Externo
+508,5,"Lâmpada, Pincel, Pilha",0508.png,Lâmpada,Pincel,Pilha,Pedra,Sol,Externo
+509,5,"Lâmpada, Pincel, Pinça",0509.png,Lâmpada,Pincel,Pinça,Pedra,Sol,Externo
+510,5,"Lâmpada, Pincel, Pendrive",0510.png,Lâmpada,Pincel,Pendrive,Pedra,Sol,Externo
+511,5,"Lâmpada, Caneta, Pilha",0511.png,Lâmpada,Caneta,Pilha,Pedra,Sol,Externo
+512,5,"Lâmpada, Caneta, Pinça",0512.png,Lâmpada,Caneta,Pinça,Pedra,Sol,Externo
+513,5,"Lâmpada, Caneta, Pendrive",0513.png,Lâmpada,Caneta,Pendrive,Pedra,Sol,Externo
+514,5,"Lâmpada, Pilha, Pinça",0514.png,Lâmpada,Pilha,Pinça,Pedra,Sol,Externo
+515,5,"Lâmpada, Pilha, Pendrive",0515.png,Lâmpada,Pilha,Pendrive,Pedra,Sol,Externo
+516,5,"Lâmpada, Pinça, Pendrive",0516.png,Lâmpada,Pinça,Pendrive,Pedra,Sol,Externo
+517,5,"Post-It, Chave de Fenda, Cadeado",0517.png,Post-It,Chave de Fenda,Cadeado,Pedra,Sol,Externo
+518,5,"Post-It, Chave de Fenda, Rolha",0518.png,Post-It,Chave de Fenda,Rolha,Pedra,Sol,Externo
+519,5,"Post-It, Chave de Fenda, Pincel",0519.png,Post-It,Chave de Fenda,Pincel,Pedra,Sol,Externo
+520,5,"Post-It, Chave de Fenda, Caneta",0520.png,Post-It,Chave de Fenda,Caneta,Pedra,Sol,Externo
+521,5,"Post-It, Chave de Fenda, Pilha",0521.png,Post-It,Chave de Fenda,Pilha,Pedra,Sol,Externo
+522,5,"Post-It, Chave de Fenda, Pinça",0522.png,Post-It,Chave de Fenda,Pinça,Pedra,Sol,Externo
+523,5,"Post-It, Chave de Fenda, Pendrive",0523.png,Post-It,Chave de Fenda,Pendrive,Pedra,Sol,Externo
+524,5,"Post-It, Cadeado, Rolha",0524.png,Post-It,Cadeado,Rolha,Pedra,Sol,Externo
+525,5,"Post-It, Cadeado, Pincel",0525.png,Post-It,Cadeado,Pincel,Pedra,Sol,Externo
+526,5,"Post-It, Cadeado, Caneta",0526.png,Post-It,Cadeado,Caneta,Pedra,Sol,Externo
+527,5,"Post-It, Cadeado, Pilha",0527.png,Post-It,Cadeado,Pilha,Pedra,Sol,Externo
+528,5,"Post-It, Cadeado, Pinça",0528.png,Post-It,Cadeado,Pinça,Pedra,Sol,Externo
+529,5,"Post-It, Cadeado, Pendrive",0529.png,Post-It,Cadeado,Pendrive,Pedra,Sol,Externo
+530,5,"Post-It, Rolha, Pincel",0530.png,Post-It,Rolha,Pincel,Pedra,Sol,Externo
+531,5,"Post-It, Rolha, Caneta",0531.png,Post-It,Rolha,Caneta,Pedra,Sol,Externo
+532,5,"Post-It, Rolha, Pilha",0532.png,Post-It,Rolha,Pilha,Pedra,Sol,Externo
+533,5,"Post-It, Rolha, Pinça",0533.png,Post-It,Rolha,Pinça,Pedra,Sol,Externo
+534,5,"Post-It, Rolha, Pendrive",0534.png,Post-It,Rolha,Pendrive,Pedra,Sol,Externo
+535,5,"Post-It, Pincel, Caneta",0535.png,Post-It,Pincel,Caneta,Pedra,Sol,Externo
+536,5,"Post-It, Pincel, Pilha",0536.png,Post-It,Pincel,Pilha,Pedra,Sol,Externo
+537,5,"Post-It, Pincel, Pinça",0537.png,Post-It,Pincel,Pinça,Pedra,Sol,Externo
+538,5,"Post-It, Pincel, Pendrive",0538.png,Post-It,Pincel,Pendrive,Pedra,Sol,Externo
+539,5,"Post-It, Caneta, Pilha",0539.png,Post-It,Caneta,Pilha,Pedra,Sol,Externo
+540,5,"Post-It, Caneta, Pinça",0540.png,Post-It,Caneta,Pinça,Pedra,Sol,Externo
+541,5,"Post-It, Caneta, Pendrive",0541.png,Post-It,Caneta,Pendrive,Pedra,Sol,Externo
+542,5,"Post-It, Pilha, Pinça",0542.png,Post-It,Pilha,Pinça,Pedra,Sol,Externo
+543,5,"Post-It, Pilha, Pendrive",0543.png,Post-It,Pilha,Pendrive,Pedra,Sol,Externo
+544,5,"Post-It, Pinça, Pendrive",0544.png,Post-It,Pinça,Pendrive,Pedra,Sol,Externo
+545,5,"Chave de Fenda, Cadeado, Rolha",0545.png,Chave de Fenda,Cadeado,Rolha,Pedra,Sol,Externo
+546,5,"Chave de Fenda, Cadeado, Pincel",0546.png,Chave de Fenda,Cadeado,Pincel,Pedra,Sol,Externo
+547,5,"Chave de Fenda, Cadeado, Caneta",0547.png,Chave de Fenda,Cadeado,Caneta,Pedra,Sol,Externo
+548,5,"Chave de Fenda, Cadeado, Pilha",0548.png,Chave de Fenda,Cadeado,Pilha,Pedra,Sol,Externo
+549,5,"Chave de Fenda, Cadeado, Pinça",0549.png,Chave de Fenda,Cadeado,Pinça,Pedra,Sol,Externo
+550,5,"Chave de Fenda, Cadeado, Pendrive",0550.png,Chave de Fenda,Cadeado,Pendrive,Pedra,Sol,Externo
+551,5,"Chave de Fenda, Rolha, Pincel",0551.png,Chave de Fenda,Rolha,Pincel,Pedra,Sol,Externo
+552,5,"Chave de Fenda, Rolha, Caneta",0552.png,Chave de Fenda,Rolha,Caneta,Pedra,Sol,Externo
+553,5,"Chave de Fenda, Rolha, Pilha",0553.png,Chave de Fenda,Rolha,Pilha,Pedra,Sol,Externo
+554,5,"Chave de Fenda, Rolha, Pinça",0554.png,Chave de Fenda,Rolha,Pinça,Pedra,Sol,Externo
+555,5,"Chave de Fenda, Rolha, Pendrive",0555.png,Chave de Fenda,Rolha,Pendrive,Pedra,Sol,Externo
+556,5,"Chave de Fenda, Pincel, Caneta",0556.png,Chave de Fenda,Pincel,Caneta,Pedra,Sol,Externo
+557,5,"Chave de Fenda, Pincel, Pilha",0557.png,Chave de Fenda,Pincel,Pilha,Pedra,Sol,Externo
+558,5,"Chave de Fenda, Pincel, Pinça",0558.png,Chave de Fenda,Pincel,Pinça,Pedra,Sol,Externo
+559,5,"Chave de Fenda, Pincel, Pendrive",0559.png,Chave de Fenda,Pincel,Pendrive,Pedra,Sol,Externo
+560,5,"Chave de Fenda, Caneta, Pilha",0560.png,Chave de Fenda,Caneta,Pilha,Pedra,Sol,Externo
+561,5,"Chave de Fenda, Caneta, Pinça",0561.png,Chave de Fenda,Caneta,Pinça,Pedra,Sol,Externo
+562,5,"Chave de Fenda, Caneta, Pendrive",0562.png,Chave de Fenda,Caneta,Pendrive,Pedra,Sol,Externo
+563,5,"Chave de Fenda, Pilha, Pinça",0563.png,Chave de Fenda,Pilha,Pinça,Pedra,Sol,Externo
+564,5,"Chave de Fenda, Pilha, Pendrive",0564.png,Chave de Fenda,Pilha,Pendrive,Pedra,Sol,Externo
+565,5,"Chave de Fenda, Pinça, Pendrive",0565.png,Chave de Fenda,Pinça,Pendrive,Pedra,Sol,Externo
+566,5,"Cadeado, Rolha, Pincel",0566.png,Cadeado,Rolha,Pincel,Pedra,Sol,Externo
+567,5,"Cadeado, Rolha, Caneta",0567.png,Cadeado,Rolha,Caneta,Pedra,Sol,Externo
+568,5,"Cadeado, Rolha, Pilha",0568.png,Cadeado,Rolha,Pilha,Pedra,Sol,Externo
+569,5,"Cadeado, Rolha, Pinça",0569.png,Cadeado,Rolha,Pinça,Pedra,Sol,Externo
+570,5,"Cadeado, Rolha, Pendrive",0570.png,Cadeado,Rolha,Pendrive,Pedra,Sol,Externo
+571,5,"Cadeado, Pincel, Caneta",0571.png,Cadeado,Pincel,Caneta,Pedra,Sol,Externo
+572,5,"Cadeado, Pincel, Pilha",0572.png,Cadeado,Pincel,Pilha,Pedra,Sol,Externo
+573,5,"Cadeado, Pincel, Pinça",0573.png,Cadeado,Pincel,Pinça,Pedra,Sol,Externo
+574,5,"Cadeado, Pincel, Pendrive",0574.png,Cadeado,Pincel,Pendrive,Pedra,Sol,Externo
+575,5,"Cadeado, Caneta, Pilha",0575.png,Cadeado,Caneta,Pilha,Pedra,Sol,Externo
+576,5,"Cadeado, Caneta, Pinça",0576.png,Cadeado,Caneta,Pinça,Pedra,Sol,Externo
+577,5,"Cadeado, Caneta, Pendrive",0577.png,Cadeado,Caneta,Pendrive,Pedra,Sol,Externo
+578,5,"Cadeado, Pilha, Pinça",0578.png,Cadeado,Pilha,Pinça,Pedra,Sol,Externo
+579,5,"Cadeado, Pilha, Pendrive",0579.png,Cadeado,Pilha,Pendrive,Pedra,Sol,Externo
+580,5,"Cadeado, Pinça, Pendrive",0580.png,Cadeado,Pinça,Pendrive,Pedra,Sol,Externo
+581,5,"Rolha, Pincel, Caneta",0581.png,Rolha,Pincel,Caneta,Pedra,Sol,Externo
+582,5,"Rolha, Pincel, Pilha",0582.png,Rolha,Pincel,Pilha,Pedra,Sol,Externo
+583,5,"Rolha, Pincel, Pinça",0583.png,Rolha,Pincel,Pinça,Pedra,Sol,Externo
+584,5,"Rolha, Pincel, Pendrive",0584.png,Rolha,Pincel,Pendrive,Pedra,Sol,Externo
+585,5,"Rolha, Caneta, Pilha",0585.png,Rolha,Caneta,Pilha,Pedra,Sol,Externo
+586,5,"Rolha, Caneta, Pinça",0586.png,Rolha,Caneta,Pinça,Pedra,Sol,Externo
+587,5,"Rolha, Caneta, Pendrive",0587.png,Rolha,Caneta,Pendrive,Pedra,Sol,Externo
+588,5,"Rolha, Pilha, Pinça",0588.png,Rolha,Pilha,Pinça,Pedra,Sol,Externo
+589,5,"Rolha, Pilha, Pendrive",0589.png,Rolha,Pilha,Pendrive,Pedra,Sol,Externo
+590,5,"Rolha, Pinça, Pendrive",0590.png,Rolha,Pinça,Pendrive,Pedra,Sol,Externo
+591,5,"Pincel, Caneta, Pilha",0591.png,Pincel,Caneta,Pilha,Pedra,Sol,Externo
+592,5,"Pincel, Caneta, Pinça",0592.png,Pincel,Caneta,Pinça,Pedra,Sol,Externo
+593,5,"Pincel, Caneta, Pendrive",0593.png,Pincel,Caneta,Pendrive,Pedra,Sol,Externo
+594,5,"Pincel, Pilha, Pinça",0594.png,Pincel,Pilha,Pinça,Pedra,Sol,Externo
+595,5,"Pincel, Pilha, Pendrive",0595.png,Pincel,Pilha,Pendrive,Pedra,Sol,Externo
+596,5,"Pincel, Pinça, Pendrive",0596.png,Pincel,Pinça,Pendrive,Pedra,Sol,Externo
+597,5,"Caneta, Pilha, Pinça",0597.png,Caneta,Pilha,Pinça,Pedra,Sol,Externo
+598,5,"Caneta, Pilha, Pendrive",0598.png,Caneta,Pilha,Pendrive,Pedra,Sol,Externo
+599,5,"Caneta, Pinça, Pendrive",0599.png,Caneta,Pinça,Pendrive,Pedra,Sol,Externo
+600,6,"Pilha, Pinça, Pendrive",0600.png,Pilha,Pinça,Pendrive,Pedra,Sol,Externo

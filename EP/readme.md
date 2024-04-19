@@ -4,3 +4,5 @@
 ### Prof. Ronaldo Fumio Hashimoto
 
 ### Marcus Vinicius Fugagnoli Laranjeira - Núm. USP 5383459
+
+<img src="presANIMATION400.gif">

@@ -1,4 +1,6 @@
 # MAC5768
+## Instituto de Matemática e Estatística - USP - 1º Semestre/2024
+
 Notas de Aula, trabalhos e projetos referentes à disciplina MAC-5768 - IME-USP
 
 ## Notas de Aula e Estudos
@@ -13,3 +15,4 @@ Notas de Aula, trabalhos e projetos referentes à disciplina MAC-5768 - IME-USP
    * Fateamento Bit a Bit (Bit-Plane Slicing)
    * Segmentação por Níveis de Intensidade (Intensity-Level Slicing)
    * Equalização de Histograma
+3. [Exercícios Programa Desenvolvidos durante o Semestre](https://github.com/mvlaran/MAC5768/tree/main/EPs)

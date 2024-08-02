@@ -3,7 +3,6 @@
 
 Notas de Aula, trabalhos e projetos referentes à disciplina MAC-5768 - IME-USP
 
-## Notas de Aula e Estudos
 1. [Notas de Aula #01](https://github.com/mvlaran/MAC5768/blob/main/Estudo%20Aula%20-%20MAC5768%20-%20%2301.ipynb)
    * Operações Aritiméticas com Imagens
    * Estudo da média de imagens para redução de ruído

@@ -1,5 +1,6 @@
 # MAC5768
 ## Instituto de Matemática e Estatística - USP - 1º Semestre/2024
+### Prof. Ronaldo Fumio Hashimoto
 
 Notas de Aula, trabalhos e projetos referentes à disciplina MAC-5768 - IME-USP
 
